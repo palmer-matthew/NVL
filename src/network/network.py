@@ -1,0 +1,3 @@
+
+class NeuralNetowrk():
+    pass
