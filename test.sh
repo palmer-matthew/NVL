@@ -1,3 +1,7 @@
 #!/bin/bash
 
-python3 -m unittest -s tests
+# Running Unit Test in the tests/network folder: Neuron, Network
+python3 -m unittest discover -s tests/network 
+
+# Running Unit Test in the tests/parameters
+python3 -m unittest discover -s tests/parameters
