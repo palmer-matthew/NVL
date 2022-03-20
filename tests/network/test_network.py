@@ -1,6 +1,6 @@
 import unittest
 
-class Network(unittest.TestCase):
+class TestNetwork(unittest.TestCase):
     pass
 
 if __name__ == "__main__":
